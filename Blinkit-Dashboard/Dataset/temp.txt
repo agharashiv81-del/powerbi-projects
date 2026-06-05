@@ -1,0 +1,11 @@
+# Dataset
+
+This folder contains the source CSV files used for the Blinkit Sales Dashboard project.
+
+## Files Included
+- blinkit_customers
+- blinkit_order_items
+- blinkit_orders
+- blinkit_products
+
+These datasets were used for data cleaning, transformation, modeling, and dashboard creation in Power BI.
